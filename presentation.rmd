@@ -1,0 +1,21 @@
+###if load error, see attachment
+
+#Slide 1 -Intro
+This product aims to address concerns of general human health habits and overall health based on activity level, current age and gender
+[image of product sample]
+
+#Slide 2 - Challenge
+It is difficult for humans to understand if their activity level is positively impacting their well being.
+[click here for visual]
+
+#Slide 3 - Product Sample
+This product calculates relative age via health measures from activity level, current age and gender
+[product demo animation]
+
+#Slide 4 - Business Application
+The product can be used in a number of medical settings, specifically when speaking to patients about their activity habits.
+[link to case study]
+
+#Slide 5 - Wrap-up
+For more information, visit the project on human aging and excercise impacts
+[link to project]
